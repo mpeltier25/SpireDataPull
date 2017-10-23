@@ -7,7 +7,7 @@ As of the writing of this readme, I am having a lot of trouble accessing: https:
 
 In order to use this Node.js Data pull, install the request package from npm: https://www.npmjs.com/package/request 
 
-### npm install request 
+```npm install request``` 
 
 and it should go successfully through. You could choose to also read from a CSV and have it write out to a CSV as normal, but I elected to not include that in the code for simplicity of use for the initial Node.js script.
 
